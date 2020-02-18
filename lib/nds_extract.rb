@@ -53,4 +53,6 @@ def total_gross(source)
   list = list_of_directors(source)
   grand_total = 0
   director_index = 0
+  
+  while
 end
