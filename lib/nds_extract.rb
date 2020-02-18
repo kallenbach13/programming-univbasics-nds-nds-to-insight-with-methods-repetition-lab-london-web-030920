@@ -53,4 +53,5 @@ def total_gross(source)
   director_index = 0
   directors = directors_totals(source)
   list = list_of_directors(source)
+  while directors_totals
 end
