@@ -51,4 +51,5 @@ def total_gross(source)
   # return the total
   grand_total = 0
   director_index = 0
+  directors
 end
