@@ -54,5 +54,5 @@ def total_gross(source)
   grand_total = 0
   director_index = 0
   
-  while
+  while director_index < 
 end
