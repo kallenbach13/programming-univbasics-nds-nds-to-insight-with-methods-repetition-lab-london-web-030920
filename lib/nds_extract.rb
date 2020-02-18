@@ -56,5 +56,5 @@ def total_gross(source)
   list = list.length
   binding.pry
   while directors_index < list.length do
-    name = 
+    name = list[directors_index]
 end
