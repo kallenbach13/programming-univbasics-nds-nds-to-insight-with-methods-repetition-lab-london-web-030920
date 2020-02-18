@@ -49,12 +49,10 @@ def total_gross(source)
   # Visit each key (i.e. director name), look up the value in the hash
   # returned by directors_totals, and add it to a running total. When done,
   # return the total
-  require 'pry'
   grand_total = 0
   director_index = 0
   directors = directors_totals(source)
   list = list.length
-  binding.pry
   while directors_index < list.length do
     name = list[directors_index]
     grand_total
