@@ -57,4 +57,5 @@ def total_gross(source)
   binding.pry
   while directors_index < list.length do
     name = list[directors_index]
+    grand_total
 end
